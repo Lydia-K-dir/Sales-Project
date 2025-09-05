@@ -5,7 +5,7 @@ This repository contains an end-to-end data analysis project on online sales tra
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 In today's digital world, online retailers generate a lot of transactional data daily. Data in its raw form is never clean, consistent, or usable directly within any kind of decision-making process.
 
@@ -13,7 +13,7 @@ This project demonstrates an end-to-end data analytics pipeline: converting mess
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 | Tool                 | Purpose                                     |
 |----------------------|---------------------------------------------|
@@ -26,11 +26,11 @@ This project demonstrates an end-to-end data analytics pipeline: converting mess
 
 ## 🔧 Data Cleaning & Enrichment
 
-- ✅ Checked and handled missing values  
-- ✅ Corrected misspelled values for data consistency
-- ✅ Calculated `Net Sales` (Revenue) from *Total Revenue- Discount*  
-- ✅ Recalculated `Total Sales` (Revenue) from *Unit Price × Quantity*  
-- ✅ Created new features:
+- Checked and handled missing values  
+- Corrected misspelled values for data consistency
+- Calculated `Net Sales` (Revenue) from *Total Revenue- Discount*  
+-  Recalculated `Total Sales` (Revenue) from *Unit Price × Quantity*  
+- Created new features:
   - `Total Amount`
   - `Net Sales`
   - `Total Discount`
@@ -41,7 +41,7 @@ This project demonstrates an end-to-end data analytics pipeline: converting mess
 
 ---
 
-## ❓ Business Questions Answered
+## Business Questions Answered
 
 1. **Product Return Insight** – How many products were returned, not returned, or unspecified?  
 2. **Total Revenue Across Sales Channels** – Which channels drive the highest revenue?  
@@ -53,7 +53,7 @@ This project demonstrates an end-to-end data analytics pipeline: converting mess
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - **Retail Sales Channel Dominates Revenue** – Most revenue generated through retail channel.  
 - **Top Performing Region** – **Northern region** contributed $243,329.  
@@ -64,7 +64,7 @@ This project demonstrates an end-to-end data analytics pipeline: converting mess
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 **1. Strengthen Focus on High-Performing Channels & Regions**
 Concentrate marketing and logistics investment in the retail channel and Northern region, as they invariably record the largest share of total sales. Customized promotions in these areas will accelerate growth even faster.
@@ -88,7 +88,7 @@ Though notebooks account for most sales, there is heavy reliance on one product 
 Plan the loyalty programs and personalized offers underpinned by strategies aimed at post-purchase engagement to convert first-time buyers into repeat customers for sustainable long-term growth.
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 Special thanks to **Tim Jones** for providing the dataset and the open-source Excel community for making robust tools for analysis accessible.  
 
